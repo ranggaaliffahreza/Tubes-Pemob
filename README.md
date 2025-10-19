@@ -1,8 +1,10 @@
 TUGAS BESAR PEMROGRAMAN MOBILE KOM B - KELOMPOK 3
-Nama Aplikasi:
-SiGizi
+
+Nama Aplikasi:SiGizi
+
 Deskripsi Singkat Aplikasi:
 SiGizi adalah aplikasi pemantauan dan manajemen gizi bayi yang membantu orang tua dalam mencatat asupan nutrisi, berat badan, tinggi badan, serta perkembangan kesehatan bayi setiap hari atau setiap bulan. Aplikasi ini dirancang untuk membantu menjaga keseimbangan gizi, memantau pertumbuhan bayi secara optimal, serta memberikan edukasi tentang kebutuhan nutrisi sesuai usia.
+
 Anggota Kelompok:
 •	Ahmad Rozan Raufansyah Nasution (231402002)
 •	Rangga Alif Fahreza (231402017)
@@ -33,10 +35,12 @@ Fitur komunikasi langsung antara dokter dan orang tua anak untuk membahas hasil 
 Menu navigasi utama untuk memudahkan pengguna berpindah antar fitur dalam aplikasi.
 •	Notifikasi & Pengingat
 Mengingatkan orang tua tentang jadwal pencatatan pertumbuhan, pemberian vitamin, atau waktu konsultasi berikutnya.
-.________________________________________
+
+________________________________________
 Deskripsi Project:
 Proyek ini bertujuan untuk membuat aplikasi mobile yang membantu orang tua dalam memantau pertumbuhan dan status gizi bayi secara digital. Aplikasi dikembangkan menggunakan framework Flutter (Cross Platform) agar dapat berjalan di Android dan iOS.
 Pengguna dapat menambahkan data pertumbuhan, mencatat asupan harian, melihat grafik perkembangan bayi, serta menerima pengingat gizi secara otomatis melalui antarmuka yang ramah pengguna dan informatif.
+
 ________________________________________
 Native Platform & Tools:
 •	Framework: Flutter
